@@ -1,0 +1,20 @@
+git-psuh(1)
+===========
+
+NAME
+----
+git-psuh - A toy builtin command
+
+SYNOPSIS
+--------
+[verbosity=1]
+'git psuh'
+
+DESCRIPTION
+-----------
+This is a dummy builtin command written as part of the MyFirstContribution
+tutorial for learning Git development.
+
+GIT
+---
+Part of the linkgit:git[1] suite
